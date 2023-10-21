@@ -1,0 +1,3 @@
+name: BS-Bridge
+version: '1.0-SNAPSHOT'
+main: tech.bingulhan.bsbridge.BS_Bridge

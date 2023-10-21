@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BS-Bridge:jar">
+    <output-path>$PROJECT_DIR$/../../spigot 1.12.2/plugins</output-path>
+    <root id="archive" name="BS-Bridge.jar">
+      <element id="module-output" name="BS-Bridge" />
+    </root>
+  </artifact>
+</component>

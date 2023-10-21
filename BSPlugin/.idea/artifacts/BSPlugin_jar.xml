@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BSPlugin:jar">
+    <output-path>$PROJECT_DIR$/../../Bungeecord/plugins</output-path>
+    <root id="archive" name="BSPlugin.jar">
+      <element id="module-output" name="BSPlugin" />
+    </root>
+  </artifact>
+</component>

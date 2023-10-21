@@ -1,0 +1,3 @@
+name: BS-Bridge
+version: '${project.version}'
+main: tech.bingulhan.bsbridge.BS_Bridge
